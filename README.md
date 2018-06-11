@@ -54,8 +54,6 @@ You don't.
 
 ## FAQ
 
-Q. What is this? I don't understand.
-A. If so, it means you belong to some organization's DevOps group.
-
 Q. Why don't you care about my feelings?
+
 A. We are not a support group for human emotion. We are a community that strives to focus around our topics. Anything else takes away from that.
