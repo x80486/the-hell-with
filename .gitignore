@@ -1,0 +1,8 @@
+#
+# Excludes
+.DS_Store
+Thumbs.db
+
+
+#
+# Includes
